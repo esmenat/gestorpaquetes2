@@ -10,7 +10,7 @@ class LoginFrame extends JFrame implements ActionListener {
     private JPasswordField txtContrasena;
     private JButton btnIniciar;
     private JLabel lblMensaje;
-    private JLabel lblImagen; // Declarar lblImagen a nivel de clase
+    private JLabel lblImagen; 
     private ImageIcon originalIcon;
 
     public LoginFrame() {
